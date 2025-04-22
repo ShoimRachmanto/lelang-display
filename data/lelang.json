@@ -1,17 +1,23 @@
 [
-    {
-      "nama_lot": "Mobil Toyota Avanza",
-      "nilai_limit": "90000000",
-      "uang_jaminan": "18000000",
-      "waktu_akhir": "2025-04-23T10:30:00+08:00",
-      "kpknl": "KPKNL Palembang"
-    },
-    {
-      "nama_lot": "Tanah di Jambi",
-      "nilai_limit": "250000000",
-      "uang_jaminan": "50000000",
-      "waktu_akhir": "2025-04-22T15:00:00+07:00",
-      "kpknl": "KPKNL Jambi"
-    }
-  ]
-  
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 90 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "161900000",
+    "uang_jaminan": "32500000",
+    "waktu_akhir": "2025-04-23T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 108 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "383100000",
+    "uang_jaminan": "76620000",
+    "waktu_akhir": "2025-04-23T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 327 m<sup>2</sup> berikut bangunan di Kab. Banyuasin",
+    "nilai_limit": "171100000",
+    "uang_jaminan": "55000000",
+    "waktu_akhir": "2025-04-23T09:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  }
+]

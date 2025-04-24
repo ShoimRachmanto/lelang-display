@@ -1,23 +1,310 @@
 [
   {
-    "nama_lot": "1 bidang tanah dengan total luas 90 m<sup>2</sup> berikut bangunan di Kota Palembang",
-    "nilai_limit": "161900000",
-    "uang_jaminan": "32500000",
-    "waktu_akhir": "2025-04-23T09:00:00+07:00",
+    "nama_lot": "1 bidang tanah dengan total luas 68 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "350600000",
+    "uang_jaminan": "71000000",
+    "waktu_akhir": "2025-04-24T13:20:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 108 m<sup>2</sup> berikut bangunan di Kota Palembang",
-    "nilai_limit": "383100000",
-    "uang_jaminan": "76620000",
-    "waktu_akhir": "2025-04-23T09:30:00+07:00",
+    "nama_lot": "1 bidang tanah dengan total luas 464 m<sup>2</sup> berikut bangunan di Kota Pagar Alam",
+    "nilai_limit": "540700000",
+    "uang_jaminan": "109000000",
+    "waktu_akhir": "2025-04-24T13:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 75 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "609000000",
+    "uang_jaminan": "100000000",
+    "waktu_akhir": "2025-04-24T13:30:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 327 m<sup>2</sup> berikut bangunan di Kab. Banyuasin",
-    "nilai_limit": "171100000",
-    "uang_jaminan": "55000000",
-    "waktu_akhir": "2025-04-23T09:30:00+07:00",
+    "nama_lot": "Mobil Pick Up Mitsubishi L300 warna hitam No.  Pol. BA 8904 MJ yang bermuatan 1 (satu) tangki  besi warna hitam di Kota Jambi",
+    "nilai_limit": "66069000",
+    "uang_jaminan": "33000000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "Truk Tangki merk Hino warna hijau kombinasi,  dengan No. Pol. BB 9240 UFU di Kota Jambi",
+    "nilai_limit": "110899000",
+    "uang_jaminan": "55400000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "Truck Mitsubishi Colt Diesel OS 125 warna kuning  Nopol BG 8060 TC di Kota Jambi",
+    "nilai_limit": "47594000",
+    "uang_jaminan": "23700000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 1505 m<sup>2</sup> berikut bangunan di Kab. Belitung Timur",
+    "nilai_limit": "200000000",
+    "uang_jaminan": "50000000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "Truck Mitsubishi Colt Diesel PS 125 warna kuning  Nopol BG 8164 JG di Kota Jambi",
+    "nilai_limit": "54547000",
+    "uang_jaminan": "27200000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 104 m<sup>2</sup> berikut bangunan di Kab. Lahat",
+    "nilai_limit": "143700000",
+    "uang_jaminan": "29000000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 470 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "200000000",
+    "uang_jaminan": "50000000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 149 m<sup>2</sup> berikut bangunan di Kab. Belitung Timur",
+    "nilai_limit": "90000000",
+    "uang_jaminan": "22500000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 325 m<sup>2</sup> berikut bangunan di Kab. Belitung Timur",
+    "nilai_limit": "70000000",
+    "uang_jaminan": "17500000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 1494 m<sup>2</sup> berikut bangunan di Kab. Ogan Komering Ulu Selatan",
+    "nilai_limit": "300000000",
+    "uang_jaminan": "50000000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 682 m<sup>2</sup> berikut bangunan di Kab. Ogan Komering Ulu Selatan",
+    "nilai_limit": "175000000",
+    "uang_jaminan": "20000000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "Mobil Toyota Rush warna hitam metalik BH 2221 XX di Kota Jambi",
+    "nilai_limit": "115842000",
+    "uang_jaminan": "57900000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 104 m<sup>2</sup> berikut bangunan di Kab. Lahat",
+    "nilai_limit": "205200000",
+    "uang_jaminan": "42000000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 90 m<sup>2</sup> berikut bangunan di Kota Lubuk Linggau",
+    "nilai_limit": "641160000",
+    "uang_jaminan": "128232000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 303 m<sup>2</sup> berikut bangunan di Kota Jambi",
+    "nilai_limit": "165000000",
+    "uang_jaminan": "49500000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 (satu) unit Mobil Truk merk Mitsubishi Colt  Diesel HD 125 kombinasi warna kuning dan hijau  No Pol BE 8061 HC beserta 259 (dua ratus lima puluh sembilan) keping kayu  gergajian di Kota Jambi",
+    "nilai_limit": "59298613",
+    "uang_jaminan": "28000000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 (satu) unit Mobil Mitsubishi Colt Diesel FE 74  HDV jenis Light truck Bak Kayu beserta 118 (seratus delapan belas) batang kayu jenis  Bungur di Kota Jambi",
+    "nilai_limit": "61420942",
+    "uang_jaminan": "28000000",
+    "waktu_akhir": "2025-04-24T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "2 bidang tanah dengan total luas 21887 m<sup>2</sup> berikut bangunan di Kota Prabumulih",
+    "nilai_limit": "1290000000",
+    "uang_jaminan": "258000000",
+    "waktu_akhir": "2025-04-24T14:15:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 165 m<sup>2</sup> berikut bangunan di Kab. Kerinci",
+    "nilai_limit": "562000000",
+    "uang_jaminan": "112400000",
+    "waktu_akhir": "2025-04-24T14:15:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 281 m<sup>2</sup> berikut bangunan di Kota Lubuk Linggau",
+    "nilai_limit": "701435700",
+    "uang_jaminan": "150000000",
+    "waktu_akhir": "2025-04-24T14:30:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 465 m<sup>2</sup> di Kota Jambi",
+    "nilai_limit": "83700000",
+    "uang_jaminan": "16740000",
+    "waktu_akhir": "2025-04-24T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "5 bidang tanah dengan total luas 74655400 m<sup>2</sup> berikut bangunan di Kab. Musi Rawas Utara",
+    "nilai_limit": "455000000000",
+    "uang_jaminan": "100000000000",
+    "waktu_akhir": "2025-04-24T15:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 398 m<sup>2</sup> di Kota Jambi",
+    "nilai_limit": "70087800",
+    "uang_jaminan": "14017560",
+    "waktu_akhir": "2025-04-24T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 995 m<sup>2</sup> berikut bangunan di Kota Jambi",
+    "nilai_limit": "556720000",
+    "uang_jaminan": "111400000",
+    "waktu_akhir": "2025-04-24T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 200 m<sup>2</sup> berikut bangunan di Kota Jambi",
+    "nilai_limit": "304000000",
+    "uang_jaminan": "61000000",
+    "waktu_akhir": "2025-04-24T15:10:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 322 m<sup>2</sup> berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "353000000",
+    "uang_jaminan": "71000000",
+    "waktu_akhir": "2025-04-24T15:10:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 143 m<sup>2</sup> di Kab. Muaro Jambi",
+    "nilai_limit": "88000000",
+    "uang_jaminan": "18000000",
+    "waktu_akhir": "2025-04-24T15:15:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 282 m<sup>2</sup> berikut bangunan di Kab. Sarolangun",
+    "nilai_limit": "1222088000",
+    "uang_jaminan": "245000000",
+    "waktu_akhir": "2025-04-24T16:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 1260 m<sup>2</sup> di Kab. Belitung Timur",
+    "nilai_limit": "80000000",
+    "uang_jaminan": "20000000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 228 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "350000000",
+    "uang_jaminan": "87500000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 492 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "300000000",
+    "uang_jaminan": "75000000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 590 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "77350000",
+    "uang_jaminan": "19337500",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 266 m<sup>2</sup> berikut bangunan di Kab. Belitung Timur",
+    "nilai_limit": "230000000",
+    "uang_jaminan": "57500000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 180 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "150000000",
+    "uang_jaminan": "37500000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 2630 m<sup>2</sup> di Kab. Belitung Timur",
+    "nilai_limit": "110000000",
+    "uang_jaminan": "27500000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 180 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "150000000",
+    "uang_jaminan": "37500000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 1425 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "423000000",
+    "uang_jaminan": "105750000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 299 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "108000000",
+    "uang_jaminan": "27000000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 303 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
+    "nilai_limit": "200000000",
+    "uang_jaminan": "100000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 788 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
+    "nilai_limit": "180000000",
+    "uang_jaminan": "90000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 143 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "400000000",
+    "uang_jaminan": "80000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
     "kpknl": "KPKNL Palembang"
   }
 ]

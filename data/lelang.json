@@ -1,54 +1,5 @@
 [
   {
-    "nama_lot": "1 bidang tanah dengan total luas 281 m<sup>2</sup> berikut bangunan di Kota Lubuk Linggau",
-    "nilai_limit": "701435700",
-    "uang_jaminan": "150000000",
-    "waktu_akhir": "2025-04-24T14:30:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 465 m<sup>2</sup> di Kota Jambi",
-    "nilai_limit": "83700000",
-    "uang_jaminan": "16740000",
-    "waktu_akhir": "2025-04-24T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "5 bidang tanah dengan total luas 74655400 m<sup>2</sup> berikut bangunan di Kab. Musi Rawas Utara",
-    "nilai_limit": "455000000000",
-    "uang_jaminan": "100000000000",
-    "waktu_akhir": "2025-04-24T15:00:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 398 m<sup>2</sup> di Kota Jambi",
-    "nilai_limit": "70087800",
-    "uang_jaminan": "14017560",
-    "waktu_akhir": "2025-04-24T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 995 m<sup>2</sup> berikut bangunan di Kota Jambi",
-    "nilai_limit": "556720000",
-    "uang_jaminan": "111400000",
-    "waktu_akhir": "2025-04-24T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 200 m<sup>2</sup> berikut bangunan di Kota Jambi",
-    "nilai_limit": "304000000",
-    "uang_jaminan": "61000000",
-    "waktu_akhir": "2025-04-24T15:10:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 322 m<sup>2</sup> berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "353000000",
-    "uang_jaminan": "71000000",
-    "waktu_akhir": "2025-04-24T15:10:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
     "nama_lot": "1 bidang tanah dengan total luas 143 m<sup>2</sup> di Kab. Muaro Jambi",
     "nilai_limit": "88000000",
     "uang_jaminan": "18000000",
@@ -63,51 +14,9 @@
     "kpknl": "KPKNL Jambi"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 180 m<sup>2</sup> berikut bangunan di Kab. Belitung",
-    "nilai_limit": "150000000",
-    "uang_jaminan": "37500000",
-    "waktu_akhir": "2025-04-25T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 2630 m<sup>2</sup> di Kab. Belitung Timur",
-    "nilai_limit": "110000000",
-    "uang_jaminan": "27500000",
-    "waktu_akhir": "2025-04-25T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 228 m<sup>2</sup> berikut bangunan di Kab. Belitung",
-    "nilai_limit": "350000000",
-    "uang_jaminan": "87500000",
-    "waktu_akhir": "2025-04-25T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 1425 m<sup>2</sup> berikut bangunan di Kab. Belitung",
-    "nilai_limit": "423000000",
-    "uang_jaminan": "105750000",
-    "waktu_akhir": "2025-04-25T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 266 m<sup>2</sup> berikut bangunan di Kab. Belitung Timur",
-    "nilai_limit": "230000000",
-    "uang_jaminan": "57500000",
-    "waktu_akhir": "2025-04-25T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 180 m<sup>2</sup> berikut bangunan di Kab. Belitung",
-    "nilai_limit": "150000000",
-    "uang_jaminan": "37500000",
-    "waktu_akhir": "2025-04-25T08:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 299 m<sup>2</sup> berikut bangunan di Kab. Belitung",
-    "nilai_limit": "108000000",
-    "uang_jaminan": "27000000",
+    "nama_lot": "1 bidang tanah dengan total luas 1260 m<sup>2</sup> di Kab. Belitung Timur",
+    "nilai_limit": "80000000",
+    "uang_jaminan": "20000000",
     "waktu_akhir": "2025-04-25T08:00:00+07:00",
     "kpknl": "KPKNL Pangkal Pinang"
   },
@@ -119,9 +28,51 @@
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 1260 m<sup>2</sup> di Kab. Belitung Timur",
-    "nilai_limit": "80000000",
-    "uang_jaminan": "20000000",
+    "nama_lot": "1 bidang tanah dengan total luas 2630 m<sup>2</sup> di Kab. Belitung Timur",
+    "nilai_limit": "110000000",
+    "uang_jaminan": "27500000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 266 m<sup>2</sup> berikut bangunan di Kab. Belitung Timur",
+    "nilai_limit": "230000000",
+    "uang_jaminan": "57500000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 228 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "350000000",
+    "uang_jaminan": "87500000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 299 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "108000000",
+    "uang_jaminan": "27000000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 1425 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "423000000",
+    "uang_jaminan": "105750000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 180 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "150000000",
+    "uang_jaminan": "37500000",
+    "waktu_akhir": "2025-04-25T08:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 180 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nilai_limit": "150000000",
+    "uang_jaminan": "37500000",
     "waktu_akhir": "2025-04-25T08:00:00+07:00",
     "kpknl": "KPKNL Pangkal Pinang"
   },
@@ -133,18 +84,11 @@
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 550 m<sup>2</sup> berikut bangunan di Kab. Tanjung Jabung Timur",
-    "nilai_limit": "180600000",
-    "uang_jaminan": "36120000",
+    "nama_lot": "1 bidang tanah dengan total luas 50000 m<sup>2</sup> di Kab. Tebo",
+    "nilai_limit": "270000000",
+    "uang_jaminan": "54000000",
     "waktu_akhir": "2025-04-25T09:00:00+07:00",
     "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 119 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
-    "nilai_limit": "250000000",
-    "uang_jaminan": "125000000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
   },
   {
     "nama_lot": "1 bidang tanah dengan total luas 1938 m<sup>2</sup> berikut bangunan di Kab. Bangka",
@@ -154,9 +98,65 @@
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
+    "nama_lot": "1 bidang tanah dengan total luas 303 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
+    "nilai_limit": "200000000",
+    "uang_jaminan": "100000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 788 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
+    "nilai_limit": "180000000",
+    "uang_jaminan": "90000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 3009 m<sup>2</sup> di Kab. Bangka",
+    "nilai_limit": "453350000",
+    "uang_jaminan": "226675000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 41715 m<sup>2</sup> berikut bangunan di Kab. Tebo",
+    "nilai_limit": "300000000",
+    "uang_jaminan": "60000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "KIOS BTC dengan total luas 7.91 m<sup>2</sup> di Kota Pangkal Pinang",
+    "nilai_limit": "500000000",
+    "uang_jaminan": "250000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 54 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "250000000",
+    "uang_jaminan": "125000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 104 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "708000000",
+    "uang_jaminan": "354000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 1030 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
+    "nilai_limit": "350000000",
+    "uang_jaminan": "175000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
     "nama_lot": "1 bidang tanah dengan total luas 550 m<sup>2</sup> berikut bangunan di Kab. Tanjung Jabung Timur",
-    "nilai_limit": "31500000",
-    "uang_jaminan": "6300000",
+    "nilai_limit": "180600000",
+    "uang_jaminan": "36120000",
     "waktu_akhir": "2025-04-25T09:00:00+07:00",
     "kpknl": "KPKNL Jambi"
   },
@@ -182,28 +182,21 @@
     "kpknl": "KPKNL Jambi"
   },
   {
+    "nama_lot": "1 bidang tanah dengan total luas 49000 m<sup>2</sup> berikut bangunan di Kab. Tebo",
+    "nilai_limit": "400000000",
+    "uang_jaminan": "80000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 143 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "400000000",
+    "uang_jaminan": "80000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
     "nama_lot": "1 bidang tanah dengan total luas 19940 m<sup>2</sup> di Kab. Tanjung Jabung Barat",
-    "nilai_limit": "95000000",
-    "uang_jaminan": "19000000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 33627 m<sup>2</sup> berikut bangunan di Kab. Tebo",
-    "nilai_limit": "483770000",
-    "uang_jaminan": "96754000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "KIOS BTC dengan total luas 7.91 m<sup>2</sup> di Kota Pangkal Pinang",
-    "nilai_limit": "500000000",
-    "uang_jaminan": "250000000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 20000 m<sup>2</sup> di Kab. Tanjung Jabung Barat",
     "nilai_limit": "95000000",
     "uang_jaminan": "19000000",
     "waktu_akhir": "2025-04-25T09:00:00+07:00",
@@ -217,6 +210,13 @@
     "kpknl": "KPKNL Jambi"
   },
   {
+    "nama_lot": "1 bidang tanah dengan total luas 688 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "700000000",
+    "uang_jaminan": "350000000",
+    "waktu_akhir": "2025-04-25T09:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
     "nama_lot": "1 bidang tanah dengan total luas 4190 m<sup>2</sup> di Kab. Bangka",
     "nilai_limit": "680500000",
     "uang_jaminan": "340250000",
@@ -224,49 +224,21 @@
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 85 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "150000000",
-    "uang_jaminan": "75000000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 788 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
-    "nilai_limit": "180000000",
-    "uang_jaminan": "90000000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 303 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
-    "nilai_limit": "200000000",
-    "uang_jaminan": "100000000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 143 m<sup>2</sup> berikut bangunan di Kota Palembang",
-    "nilai_limit": "400000000",
-    "uang_jaminan": "80000000",
+    "nama_lot": "1 bidang tanah dengan total luas 97 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "350000000",
+    "uang_jaminan": "70000000",
     "waktu_akhir": "2025-04-25T09:00:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 49000 m<sup>2</sup> berikut bangunan di Kab. Tebo",
-    "nilai_limit": "400000000",
-    "uang_jaminan": "80000000",
+    "nama_lot": "1 bidang tanah dengan total luas 550 m<sup>2</sup> berikut bangunan di Kab. Tanjung Jabung Timur",
+    "nilai_limit": "31500000",
+    "uang_jaminan": "6300000",
     "waktu_akhir": "2025-04-25T09:00:00+07:00",
     "kpknl": "KPKNL Jambi"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 3009 m<sup>2</sup> di Kab. Bangka",
-    "nilai_limit": "453350000",
-    "uang_jaminan": "226675000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 54 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
+    "nama_lot": "1 bidang tanah dengan total luas 119 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
     "nilai_limit": "250000000",
     "uang_jaminan": "125000000",
     "waktu_akhir": "2025-04-25T09:00:00+07:00",
@@ -280,52 +252,24 @@
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 1030 m<sup>2</sup> berikut bangunan di Kab. Bangka Tengah",
-    "nilai_limit": "350000000",
-    "uang_jaminan": "175000000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 97 m<sup>2</sup> berikut bangunan di Kota Palembang",
-    "nilai_limit": "350000000",
-    "uang_jaminan": "70000000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 41715 m<sup>2</sup> berikut bangunan di Kab. Tebo",
-    "nilai_limit": "300000000",
-    "uang_jaminan": "60000000",
+    "nama_lot": "1 bidang tanah dengan total luas 33627 m<sup>2</sup> berikut bangunan di Kab. Tebo",
+    "nilai_limit": "483770000",
+    "uang_jaminan": "96754000",
     "waktu_akhir": "2025-04-25T09:00:00+07:00",
     "kpknl": "KPKNL Jambi"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 688 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "700000000",
-    "uang_jaminan": "350000000",
+    "nama_lot": "1 bidang tanah dengan total luas 85 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "150000000",
+    "uang_jaminan": "75000000",
     "waktu_akhir": "2025-04-25T09:00:00+07:00",
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 50000 m<sup>2</sup> di Kab. Tebo",
-    "nilai_limit": "270000000",
-    "uang_jaminan": "54000000",
+    "nama_lot": "1 bidang tanah dengan total luas 20000 m<sup>2</sup> di Kab. Tanjung Jabung Barat",
+    "nilai_limit": "95000000",
+    "uang_jaminan": "19000000",
     "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 104 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
-    "nilai_limit": "708000000",
-    "uang_jaminan": "354000000",
-    "waktu_akhir": "2025-04-25T09:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 49480 m<sup>2</sup> berikut bangunan di Kab. Tebo",
-    "nilai_limit": "350000000",
-    "uang_jaminan": "70000000",
-    "waktu_akhir": "2025-04-25T09:15:00+07:00",
     "kpknl": "KPKNL Jambi"
   },
   {
@@ -339,6 +283,13 @@
     "nama_lot": "1 bidang tanah dengan total luas 68 m<sup>2</sup> berikut bangunan di Kab. Tebo",
     "nilai_limit": "250000000",
     "uang_jaminan": "50000000",
+    "waktu_akhir": "2025-04-25T09:15:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 49480 m<sup>2</sup> berikut bangunan di Kab. Tebo",
+    "nilai_limit": "350000000",
+    "uang_jaminan": "70000000",
     "waktu_akhir": "2025-04-25T09:15:00+07:00",
     "kpknl": "KPKNL Jambi"
   }

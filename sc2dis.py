@@ -20,7 +20,7 @@ GITHUB_PUSH_URL = "https://<username>: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@g
 class LelangApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Lelang Scraper & GitHub Pusher")
+        self.setWindowTitle("WKG25 Lelang Scraper & GitHub Pusher")
         self.resize(400, 200)
 
         layout = QVBoxLayout()

@@ -1,72 +1,86 @@
 [
   {
-    "nama_lot": "1 bidang tanah dengan total luas 25340 m<sup>2</sup> di Kota Pangkal Pinang",
-    "nilai_limit": "6715100000",
-    "uang_jaminan": "1400000000",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 105 m<sup>2</sup> berikut bangunan di Kab. Tanjung Jabung Barat",
-    "nilai_limit": "29625000",
-    "uang_jaminan": "5925000",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 285 m<sup>2</sup> berikut bangunan di Kota Palembang",
-    "nilai_limit": "575000000",
-    "uang_jaminan": "120000000",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
+    "nama_lot": "Batching Plant, Genset, Gantry Crane, Genset, Truck Mixer dan  barang bergerak lainnya di Kab. Banyuasin",
+    "nilai_limit": "1076700000",
+    "uang_jaminan": "108000000",
+    "waktu_akhir": "2025-04-25T10:45:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 74 m<sup>2</sup> berikut bangunan di Kab. Tanjung Jabung Barat",
-    "nilai_limit": "19792000",
-    "uang_jaminan": "3958400",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "2 bidang tanah dengan total luas 35805 m<sup>2</sup> di Kab. Belitung",
-    "nilai_limit": "23668700000",
-    "uang_jaminan": "5000000000",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "4 bidang tanah dengan total luas 51979 m<sup>2</sup> berikut bangunan di Kab. Belitung",
-    "nilai_limit": "30312588000",
-    "uang_jaminan": "6100000000",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 2485 m<sup>2</sup> berikut bangunan di Kab. Tanjung Jabung Timur",
-    "nilai_limit": "242000000",
-    "uang_jaminan": "48400000",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 999 m<sup>2</sup> di Kab. Tanjung Jabung Timur",
-    "nilai_limit": "50500000",
-    "uang_jaminan": "10100000",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 90 m<sup>2</sup> berikut bangunan di Kota Palembang",
-    "nilai_limit": "350000000",
-    "uang_jaminan": "70000000",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
+    "nama_lot": "Gantry Crane, Genset, Batching Plant, Genset, Truck Mixer dan  barang bergerak lainnya di Kab. Banyuasin",
+    "nilai_limit": "1177488000",
+    "uang_jaminan": "118000000",
+    "waktu_akhir": "2025-04-25T10:50:00+07:00",
     "kpknl": "KPKNL Palembang"
   },
   {
-    "nama_lot": "2 bidang tanah dengan total luas 4151 m<sup>2</sup> berikut bangunan di Kota Jambi",
-    "nilai_limit": "3596000000",
-    "uang_jaminan": "720000000",
-    "waktu_akhir": "2025-04-25T10:00:00+07:00",
+    "nama_lot": "10 barang bergerak di Kab. Banyuasin",
+    "nilai_limit": "963661386",
+    "uang_jaminan": "96500000",
+    "waktu_akhir": "2025-04-25T10:55:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "3 bidang tanah dengan total luas 330 m<sup>2</sup> berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "530000000",
+    "uang_jaminan": "106000000",
+    "waktu_akhir": "2025-04-25T11:00:00+07:00",
     "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 1618 m<sup>2</sup> berikut bangunan di Kota Jambi",
+    "nilai_limit": "900000000",
+    "uang_jaminan": "180000000",
+    "waktu_akhir": "2025-04-25T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 101 m<sup>2</sup> berikut bangunan di Kota Jambi",
+    "nilai_limit": "550000000",
+    "uang_jaminan": "110000000",
+    "waktu_akhir": "2025-04-25T11:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 118 m<sup>2</sup> di Kab. Merangin",
+    "nilai_limit": "45000000",
+    "uang_jaminan": "9000000",
+    "waktu_akhir": "2025-04-25T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 1599 m<sup>2</sup> berikut bangunan di Kab. Merangin",
+    "nilai_limit": "500000000",
+    "uang_jaminan": "100000000",
+    "waktu_akhir": "2025-04-25T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 2333 m<sup>2</sup> berikut bangunan di Kab. Bangka",
+    "nilai_limit": "280000000",
+    "uang_jaminan": "140000000",
+    "waktu_akhir": "2025-04-25T14:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 102 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "80000000",
+    "uang_jaminan": "40000000",
+    "waktu_akhir": "2025-04-25T14:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 2683 m<sup>2</sup> di Kab. Merangin",
+    "nilai_limit": "400000000",
+    "uang_jaminan": "80000000",
+    "waktu_akhir": "2025-04-25T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 199 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "345000000",
+    "uang_jaminan": "172500000",
+    "waktu_akhir": "2025-04-25T14:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
   }
 ]

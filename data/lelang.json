@@ -1,317 +1,65 @@
 [
   {
-    "nama_lot": "1 (satu) paket bongkaran berupa satu gedung KUA Kecamatan Tebing Tinggi yang akan di bongkar di Kab. Empat Lawang",
-    "nilai_limit": "2195000",
-    "uang_jaminan": "1000000",
-    "waktu_akhir": "2025-04-28T09:00:00+07:00",
+    "nama_lot": "1 bidang tanah dengan total luas 535 m<sup>2</sup> berikut bangunan di Kab. Batanghari",
+    "nilai_limit": "250000000",
+    "uang_jaminan": "62500000",
+    "waktu_akhir": "2025-04-28T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 20850 m<sup>2</sup> di Kab. Muaro Jambi",
+    "nilai_limit": "80000000",
+    "uang_jaminan": "20000000",
+    "waktu_akhir": "2025-04-28T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 5000 m<sup>2</sup> berikut bangunan di Kab. Muaro Jambi",
+    "nilai_limit": "45000000",
+    "uang_jaminan": "11250000",
+    "waktu_akhir": "2025-04-28T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 20550 m<sup>2</sup> di Kab. Muaro Jambi",
+    "nilai_limit": "84000000",
+    "uang_jaminan": "21000000",
+    "waktu_akhir": "2025-04-28T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 230 m<sup>2</sup> berikut bangunan di Kab. Batanghari",
+    "nilai_limit": "300000000",
+    "uang_jaminan": "75000000",
+    "waktu_akhir": "2025-04-28T14:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 12659 m<sup>2</sup> berikut bangunan di Kab. Sarolangun",
+    "nilai_limit": "236000000",
+    "uang_jaminan": "47200000",
+    "waktu_akhir": "2025-04-28T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 Set Inventaris Kantor (Rusak Berat) di Kab. Musi Rawas Utara",
+    "nilai_limit": "36800",
+    "uang_jaminan": "18400",
+    "waktu_akhir": "2025-04-28T15:00:00+07:00",
     "kpknl": "KPKNL Lahat"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 5926 m<sup>2</sup> berikut bangunan di Kab. Merangin",
-    "nilai_limit": "191000000",
-    "uang_jaminan": "38200000",
-    "waktu_akhir": "2025-04-28T09:30:00+07:00",
+    "nama_lot": "1 bidang tanah dengan total luas 482 m<sup>2</sup> berikut bangunan di Kab. Batanghari",
+    "nilai_limit": "180000000",
+    "uang_jaminan": "36000000",
+    "waktu_akhir": "2025-04-28T15:00:00+07:00",
     "kpknl": "KPKNL Jambi"
   },
   {
-    "nama_lot": "Lot 11. 1 Unit Kendaraan Roda 2 Merek SUZUKI FD 110 / SHOGUN di Kota Pangkal Pinang",
-    "nilai_limit": "677000",
-    "uang_jaminan": "507750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 23. 1 Unit Kendaraan Roda 2 Merek Suzuki FD 125 XSD/ Shogun di Kota Pangkal Pinang",
-    "nilai_limit": "853000",
-    "uang_jaminan": "639750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 30. 1 Unit Kendaraan Roda 2 Merek Suzuki / FD 125 XSD di Kota Pangkal Pinang",
-    "nilai_limit": "897000",
-    "uang_jaminan": "672750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 03. 1 Unit Kendaraan Roda 2 Merek Honda /NF 125 SD di Kota Pangkal Pinang",
-    "nilai_limit": "1784000",
-    "uang_jaminan": "1338000",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 17. 1 Unit Kendaraan Roda 2 Merek HONDA GL 160 D di Kota Pangkal Pinang",
-    "nilai_limit": "2719000",
-    "uang_jaminan": "2039250",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 26. 1 Unit Kendaraan Roda 2 Merek Suzuki / FD 125 XSD di Kota Pangkal Pinang",
-    "nilai_limit": "1195000",
-    "uang_jaminan": "896250",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 04. 1 Unit Kendaraan Roda 2 Merk FK 110 SD K6 / Suzuki Smash di Kota Pangkal Pinang",
-    "nilai_limit": "873000",
-    "uang_jaminan": "654750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 14. 1 Unit Kendaraan Roda 2 Merek  YAMAHA 1S7 /  JUPTER MX di Kota Pangkal Pinang",
-    "nilai_limit": "1737000",
-    "uang_jaminan": "1302750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 31. 1 Unit Kendaraan Roda 2 Merek Suzuki FD 110/ Shogun di Kota Pangkal Pinang",
-    "nilai_limit": "668000",
-    "uang_jaminan": "501000",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 06. 1 Unit Kendaraan Roda 2 Merek Suzuki / FD 125 XSD di Kota Pangkal Pinang",
-    "nilai_limit": "873000",
-    "uang_jaminan": "654750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 05. 1 Unit Kendaraan Roda 2 Merek Honda / NF 100 D di Kota Pangkal Pinang",
-    "nilai_limit": "798000",
-    "uang_jaminan": "598500",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 20. 1 Unit Kendaraan Roda 2 Merek Yamaha 3C1 / V-ixion di Kota Pangkal Pinang",
-    "nilai_limit": "1591000",
-    "uang_jaminan": "1193250",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 25. 1 Unit Kendaraan Roda 2 Merek Honda / NF 125 SD di Kota Pangkal Pinang",
-    "nilai_limit": "1581000",
-    "uang_jaminan": "1185750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 08. 1 Unit Kendaraan Roda 2 Merek YAMAHA 3C1/ V-ixion di Kota Pangkal Pinang",
-    "nilai_limit": "1872000",
-    "uang_jaminan": "1404000",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 19. 1 Unit Kendaraan Roda 2 Merek Honda NF 100 D / Supra di Kota Pangkal Pinang",
-    "nilai_limit": "804000",
-    "uang_jaminan": "603000",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 15. 1 Unit Kendaraan Roda 2 Merek Suzuki FD 110/ Shogun di Kota Pangkal Pinang",
-    "nilai_limit": "695000",
-    "uang_jaminan": "521250",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 12. 1 Unit Kendaraan Roda 2 Merek HONDA NC 110 D /VARIO di Kota Pangkal Pinang",
-    "nilai_limit": "975000",
-    "uang_jaminan": "731250",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 28. 1 Unit Kendaraan Roda 2 Merek Suzuki / FD 125 XSD di Kota Pangkal Pinang",
-    "nilai_limit": "873000",
-    "uang_jaminan": "654750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 21. 1 Unit Kendaraan Roda 2 Merek Yamaha 3C1 / V-ixion di Kota Pangkal Pinang",
-    "nilai_limit": "1353000",
-    "uang_jaminan": "1014750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 27. 1 Unit Kendaraan Roda 2 Merek Suzuki / FD 125 XSD di Kota Pangkal Pinang",
-    "nilai_limit": "873000",
-    "uang_jaminan": "654750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 07. 1 Unit Kendaraan Roda 2 Merek YAMAHA IS7 / JUPITER MX di Kota Pangkal Pinang",
-    "nilai_limit": "1661000",
-    "uang_jaminan": "1245750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 02. 1 Unit Kendaraan Roda 2 Merek Honda NF 125 TR di Kota Pangkal Pinang",
-    "nilai_limit": "2060000",
-    "uang_jaminan": "1545000",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 24. 1 Unit Kendaraan Roda 2 Merek Suzuki FD 125 XSD/ Shogun di Kota Pangkal Pinang",
-    "nilai_limit": "861000",
-    "uang_jaminan": "645750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 18. 1 Unit Kendaraan Roda 2 Merek HONDA GL 160 D di Kota Pangkal Pinang",
-    "nilai_limit": "2391000",
-    "uang_jaminan": "1793250",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 09. 1 Unit Kendaraan Roda 2 Merek YAMAHA 3C1/ V-ixion di Kota Pangkal Pinang",
-    "nilai_limit": "1785000",
-    "uang_jaminan": "1338750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 22. 1 Unit Kendaraan Roda 2 Merek Yamaha 3C1 / V-ixion di Kota Pangkal Pinang",
-    "nilai_limit": "1678000",
-    "uang_jaminan": "1258500",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 13. 1 Unit Kendaraan Roda 2 Merek HONDA / GL 160 D di Kota Pangkal Pinang",
-    "nilai_limit": "2570000",
-    "uang_jaminan": "1927500",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 530 m<sup>2</sup> berikut bangunan di Kab. Ogan Komering Ulu Timur",
-    "nilai_limit": "400000000",
-    "uang_jaminan": "120000000",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "nama_lot": "Lot 10. 1 Unit Kendaraan Roda 2 Merek HONDA NF 100 D/SUPRA di Kota Pangkal Pinang",
-    "nilai_limit": "784000",
-    "uang_jaminan": "588000",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 16. 1 Unit Kendaraan Roda 2 Merek HONDA GL 160 D di Kota Pangkal Pinang",
-    "nilai_limit": "2422000",
-    "uang_jaminan": "1816500",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 01. 1 Unit Kendaraan Roda 2 Merek Honda / NF125 SD di Kota Pangkal Pinang",
-    "nilai_limit": "1253000",
-    "uang_jaminan": "939750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "Lot 29. 1 Unit Kendaraan Roda 2 Merek Suzuki / FD 125 XSD di Kota Pangkal Pinang",
-    "nilai_limit": "885000",
-    "uang_jaminan": "663750",
-    "waktu_akhir": "2025-04-28T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "KOTAK SUARA, BILIK SUARA DAN SURAT SUARA EKS PEMILU 2024 di Kab. Ogan Komering Ulu",
-    "nilai_limit": "55482000",
-    "uang_jaminan": "11096400",
-    "waktu_akhir": "2025-04-28T10:15:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 221 m<sup>2</sup> berikut bangunan di Kota Prabumulih",
-    "nilai_limit": "200000000",
-    "uang_jaminan": "40000000",
-    "waktu_akhir": "2025-04-28T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 163 m<sup>2</sup> berikut bangunan di Kota Jambi",
-    "nilai_limit": "450000000",
-    "uang_jaminan": "95000000",
-    "waktu_akhir": "2025-04-28T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 1008 m<sup>2</sup> berikut bangunan di Kota Prabumulih",
-    "nilai_limit": "102000000",
-    "uang_jaminan": "20400000",
-    "waktu_akhir": "2025-04-28T11:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 617 m<sup>2</sup> berikut bangunan di Kota Jambi",
-    "nilai_limit": "700000000",
-    "uang_jaminan": "140000000",
-    "waktu_akhir": "2025-04-28T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "Tanah Bangunan Ruko dengan total luas 131 m<sup>2</sup> di Kota Jambi",
-    "nilai_limit": "450000000",
-    "uang_jaminan": "90000000",
-    "waktu_akhir": "2025-04-28T11:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 499 m<sup>2</sup> di Kab. Belitung",
-    "nilai_limit": "30000000",
-    "uang_jaminan": "7500000",
-    "waktu_akhir": "2025-04-28T13:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 1073 m<sup>2</sup> berikut bangunan di Kab. Belitung",
-    "nilai_limit": "350000000",
-    "uang_jaminan": "87500000",
-    "waktu_akhir": "2025-04-28T13:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 1294 m<sup>2</sup> berikut bangunan di Kab. Belitung Timur",
-    "nilai_limit": "200000000",
-    "uang_jaminan": "50000000",
-    "waktu_akhir": "2025-04-28T13:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 20000 m<sup>2</sup> di Kab. Belitung",
-    "nilai_limit": "100000000",
-    "uang_jaminan": "25000000",
-    "waktu_akhir": "2025-04-28T13:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 298 m<sup>2</sup> berikut bangunan di Kab. Belitung",
+    "nama_lot": "1 bidang tanah dengan total luas 106 m<sup>2</sup> berikut bangunan di Kab. Muaro Jambi",
     "nilai_limit": "150000000",
-    "uang_jaminan": "37500000",
-    "waktu_akhir": "2025-04-28T13:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
+    "uang_jaminan": "30000000",
+    "waktu_akhir": "2025-04-28T15:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
   }
 ]

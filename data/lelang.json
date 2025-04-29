@@ -1,65 +1,51 @@
 [
   {
-    "nama_lot": "1 bidang tanah dengan total luas 535 m<sup>2</sup> berikut bangunan di Kab. Batanghari",
-    "nilai_limit": "250000000",
-    "uang_jaminan": "62500000",
-    "waktu_akhir": "2025-04-28T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 20850 m<sup>2</sup> di Kab. Muaro Jambi",
-    "nilai_limit": "80000000",
-    "uang_jaminan": "20000000",
-    "waktu_akhir": "2025-04-28T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 5000 m<sup>2</sup> berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "45000000",
-    "uang_jaminan": "11250000",
-    "waktu_akhir": "2025-04-28T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 20550 m<sup>2</sup> di Kab. Muaro Jambi",
-    "nilai_limit": "84000000",
-    "uang_jaminan": "21000000",
-    "waktu_akhir": "2025-04-28T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 230 m<sup>2</sup> berikut bangunan di Kab. Batanghari",
-    "nilai_limit": "300000000",
-    "uang_jaminan": "75000000",
-    "waktu_akhir": "2025-04-28T14:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 12659 m<sup>2</sup> berikut bangunan di Kab. Sarolangun",
-    "nilai_limit": "236000000",
-    "uang_jaminan": "47200000",
-    "waktu_akhir": "2025-04-28T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 Set Inventaris Kantor (Rusak Berat) di Kab. Musi Rawas Utara",
-    "nilai_limit": "36800",
-    "uang_jaminan": "18400",
-    "waktu_akhir": "2025-04-28T15:00:00+07:00",
+    "nama_lot": "1 bidang tanah dengan total luas 13138 m<sup>2</sup> di Kab. Muara Enim",
+    "nilai_limit": "700000000",
+    "uang_jaminan": "210000000",
+    "waktu_akhir": "2025-04-29T11:00:00+07:00",
     "kpknl": "KPKNL Lahat"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 482 m<sup>2</sup> berikut bangunan di Kab. Batanghari",
-    "nilai_limit": "180000000",
-    "uang_jaminan": "36000000",
-    "waktu_akhir": "2025-04-28T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
+    "nama_lot": "1 bidang tanah dengan total luas 286 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "202000000",
+    "uang_jaminan": "101000000",
+    "waktu_akhir": "2025-04-29T13:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 106 m<sup>2</sup> berikut bangunan di Kab. Muaro Jambi",
-    "nilai_limit": "150000000",
-    "uang_jaminan": "30000000",
-    "waktu_akhir": "2025-04-28T15:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
+    "nama_lot": "1 bidang tanah dengan total luas 240 m<sup>2</sup> berikut bangunan di Kota Pangkal Pinang",
+    "nilai_limit": "100000000",
+    "uang_jaminan": "50000000",
+    "waktu_akhir": "2025-04-29T13:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "Barang Inventaris Kantor BPS Kabupaten Bangka Tengah (AC, Brankas, Lemari Kayu, Laptop, PC, dll) di Kab. Bangka Tengah",
+    "nilai_limit": "2537700",
+    "uang_jaminan": "1000000",
+    "waktu_akhir": "2025-04-29T13:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 2500 m<sup>2</sup> berikut bangunan di Kab. Ogan Komering Ilir",
+    "nilai_limit": "201900000",
+    "uang_jaminan": "41000000",
+    "waktu_akhir": "2025-04-29T13:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "2 bidang tanah dengan total luas 626 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "751400000",
+    "uang_jaminan": "150280000",
+    "waktu_akhir": "2025-04-29T13:30:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "GRAND LIVINA di Kota Pangkal Pinang",
+    "nilai_limit": "23374125",
+    "uang_jaminan": "10000000",
+    "waktu_akhir": "2025-04-29T14:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
   }
 ]

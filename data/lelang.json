@@ -1,65 +1,16 @@
 [
   {
-    "nama_lot": "1 bidang tanah dengan total luas 95 m<sup>2</sup> berikut bangunan di Kab. Lahat",
-    "nilai_limit": "60000000",
-    "uang_jaminan": "12000000",
-    "waktu_akhir": "2025-04-30T09:00:00+07:00",
-    "kpknl": "KPKNL Lahat"
+    "nama_lot": "Barang Eks Pemilu Tahun 2024 jenis Kotak Suara, Bilik Suara dan Surat Suara di Kab. Bangka Barat",
+    "nilai_limit": "19294666",
+    "uang_jaminan": "3858933",
+    "waktu_akhir": "2025-04-30T11:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "Satu paket meubelair sejumlah 54 barang dengan nilai perolehan dibawah 100 juta. di Kota Jambi",
-    "nilai_limit": "5615000",
-    "uang_jaminan": "1123000",
-    "waktu_akhir": "2025-04-30T09:00:00+07:00",
+    "nama_lot": "Mesin Diesel di Kota Sungai Penuh",
+    "nilai_limit": "25000000",
+    "uang_jaminan": "2500000",
+    "waktu_akhir": "2025-04-30T11:00:00+07:00",
     "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 150 m<sup>2</sup> berikut bangunan di Kab. Muara Enim",
-    "nilai_limit": "250000000",
-    "uang_jaminan": "75000000",
-    "waktu_akhir": "2025-04-30T09:00:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 180 m<sup>2</sup> berikut bangunan di Kab. Muara Enim",
-    "nilai_limit": "250000000",
-    "uang_jaminan": "75000000",
-    "waktu_akhir": "2025-04-30T09:00:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 61 m<sup>2</sup> berikut bangunan di Kota Palembang",
-    "nilai_limit": "350000000",
-    "uang_jaminan": "70000000",
-    "waktu_akhir": "2025-04-30T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "nama_lot": "7 bidang tanah dengan total luas 14280 m<sup>2</sup> berikut bangunan di Kota Palembang",
-    "nilai_limit": "1500000000",
-    "uang_jaminan": "300000000",
-    "waktu_akhir": "2025-04-30T09:00:00+07:00",
-    "kpknl": "KPKNL Palembang"
-  },
-  {
-    "nama_lot": "14 bidang tanah dengan total luas 266655 m<sup>2</sup> di Kab. Sarolangun",
-    "nilai_limit": "1400000000",
-    "uang_jaminan": "280000000",
-    "waktu_akhir": "2025-04-30T09:00:00+07:00",
-    "kpknl": "KPKNL Jambi"
-  },
-  {
-    "nama_lot": "1 bidang tanah dengan total luas 221 m<sup>2</sup> berikut bangunan di Kab. Muara Enim",
-    "nilai_limit": "150000000",
-    "uang_jaminan": "30000000",
-    "waktu_akhir": "2025-04-30T09:05:00+07:00",
-    "kpknl": "KPKNL Lahat"
-  },
-  {
-    "nama_lot": "Motor N Max di Kota Palembang",
-    "nilai_limit": "15482000",
-    "uang_jaminan": "3000000",
-    "waktu_akhir": "2025-04-30T09:30:00+07:00",
-    "kpknl": "KPKNL Palembang"
   }
 ]

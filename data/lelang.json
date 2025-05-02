@@ -5,5 +5,19 @@
     "uang_jaminan": "34000000",
     "waktu_akhir": "2025-05-02T10:00:00+07:00",
     "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 293 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "450000000",
+    "uang_jaminan": "90000000",
+    "waktu_akhir": "2025-05-05T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "1 LOT BARANG INVENTARIS KANTOR di Kota Palembang",
+    "nilai_limit": "2750000",
+    "uang_jaminan": "550000",
+    "waktu_akhir": "2025-05-05T10:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
   }
 ]

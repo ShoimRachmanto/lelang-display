@@ -1,8 +1,8 @@
 [
   {
-    "nama_lot": "1 (satu) unit Sepeda Motor Yamaha Mio warna hijau hitam dengan nopol BN 7617 DQ di Kab. Bangka Barat",
-    "nilai_limit": "554252",
-    "uang_jaminan": "250000",
+    "nama_lot": "17 (tujuh belas) karung yang berisikan pasir timah di Kab. Bangka Barat",
+    "nilai_limit": "6119200",
+    "uang_jaminan": "3000000",
     "waktu_akhir": "2025-05-06T10:00:00+07:00",
     "kpknl": "KPKNL Pangkal Pinang"
   },
@@ -21,6 +21,20 @@
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
+    "nama_lot": "11 (sebelas) karung pasir timah dengan berat kurang lebih 270 (dua ratus tujuh puluh) kilogram di Kab. Bangka Barat",
+    "nilai_limit": "6566940",
+    "uang_jaminan": "3000000",
+    "waktu_akhir": "2025-05-06T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
+    "nama_lot": "1 (satu) unit Sepeda Motor Yamaha Mio warna hijau hitam dengan nopol BN 7617 DQ di Kab. Bangka Barat",
+    "nilai_limit": "554252",
+    "uang_jaminan": "250000",
+    "waktu_akhir": "2025-05-06T10:00:00+07:00",
+    "kpknl": "KPKNL Pangkal Pinang"
+  },
+  {
     "nama_lot": "Dijual 1 Paket Logistik Eks Pemilu Tahun 2024 Berupa Surat Suara Seberat 9.316 Kg, Kotak Suara Seberat 3.324 Kg dan Bilik Suara Seberat 1.255 Kg di Kota Sungai Penuh",
     "nilai_limit": "18750350",
     "uang_jaminan": "5000000",
@@ -28,9 +42,9 @@
     "kpknl": "KPKNL Jambi"
   },
   {
-    "nama_lot": "273 (dua ratus tujuh puluh tiga) karung warna putih berisikan pasir timah dalam keadaan kering di Kab. Bangka Barat",
-    "nilai_limit": "461540000",
-    "uang_jaminan": "230000000",
+    "nama_lot": "1 (satu) karung pasir timah kotor di Kab. Bangka Barat",
+    "nilai_limit": "940953",
+    "uang_jaminan": "450000",
     "waktu_akhir": "2025-05-06T10:00:00+07:00",
     "kpknl": "KPKNL Pangkal Pinang"
   },
@@ -42,13 +56,6 @@
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "2 (dua) karung yang berisi pasir timah yang masih bercampur dengan pasir dalam keadaan basah dengan berat total 56,5 (lima puluh enam koma lima) kilogram di Kab. Bangka Barat",
-    "nilai_limit": "1185879",
-    "uang_jaminan": "550000",
-    "waktu_akhir": "2025-05-06T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
     "nama_lot": "12 (dua belas) karung warna putih yang terdiri dari 10 (sepuluh) karung berisi penuh dan 2 (dua) karung berisi setengah yang diduga biji/pasir timah dalam keadaan basah di Kab. Bangka Barat",
     "nilai_limit": "8467320",
     "uang_jaminan": "4000000",
@@ -56,9 +63,9 @@
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "17 (tujuh belas) karung yang berisikan pasir timah di Kab. Bangka Barat",
-    "nilai_limit": "6119200",
-    "uang_jaminan": "3000000",
+    "nama_lot": "273 (dua ratus tujuh puluh tiga) karung warna putih berisikan pasir timah dalam keadaan kering di Kab. Bangka Barat",
+    "nilai_limit": "461540000",
+    "uang_jaminan": "230000000",
     "waktu_akhir": "2025-05-06T10:00:00+07:00",
     "kpknl": "KPKNL Pangkal Pinang"
   },
@@ -70,16 +77,9 @@
     "kpknl": "KPKNL Pangkal Pinang"
   },
   {
-    "nama_lot": "1 (satu) karung pasir timah kotor di Kab. Bangka Barat",
-    "nilai_limit": "940953",
-    "uang_jaminan": "450000",
-    "waktu_akhir": "2025-05-06T10:00:00+07:00",
-    "kpknl": "KPKNL Pangkal Pinang"
-  },
-  {
-    "nama_lot": "11 (sebelas) karung pasir timah dengan berat kurang lebih 270 (dua ratus tujuh puluh) kilogram di Kab. Bangka Barat",
-    "nilai_limit": "6566940",
-    "uang_jaminan": "3000000",
+    "nama_lot": "2 (dua) karung yang berisi pasir timah yang masih bercampur dengan pasir dalam keadaan basah dengan berat total 56,5 (lima puluh enam koma lima) kilogram di Kab. Bangka Barat",
+    "nilai_limit": "1185879",
+    "uang_jaminan": "550000",
     "waktu_akhir": "2025-05-06T10:00:00+07:00",
     "kpknl": "KPKNL Pangkal Pinang"
   }

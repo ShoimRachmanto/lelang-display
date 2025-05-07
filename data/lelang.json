@@ -1,5 +1,12 @@
 [
   {
+    "nama_lot": "1 bidang tanah dengan total luas 67 m<sup>2</sup> berikut bangunan di Kota Palembang",
+    "nilai_limit": "1603692000",
+    "uang_jaminan": "320738400",
+    "waktu_akhir": "2025-05-07T09:00:00+07:00",
+    "kpknl": "KPKNL Palembang"
+  },
+  {
     "nama_lot": "1 bidang tanah dengan total luas 96 m<sup>2</sup> berikut bangunan di Kab. Banyuasin",
     "nilai_limit": "150000000",
     "uang_jaminan": "30000000",
@@ -7,10 +14,31 @@
     "kpknl": "KPKNL Palembang"
   },
   {
-    "nama_lot": "1 bidang tanah dengan total luas 67 m<sup>2</sup> berikut bangunan di Kota Palembang",
-    "nilai_limit": "1603692000",
-    "uang_jaminan": "320738400",
-    "waktu_akhir": "2025-05-07T09:00:00+07:00",
+    "nama_lot": "1 bidang tanah dengan total luas 101 m<sup>2</sup> berikut bangunan di Kota Sungai Penuh",
+    "nilai_limit": "551160000",
+    "uang_jaminan": "110232000",
+    "waktu_akhir": "2025-05-07T09:30:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 2371 m<sup>2</sup> berikut bangunan di Kab. Sarolangun",
+    "nilai_limit": "180000000",
+    "uang_jaminan": "36000000",
+    "waktu_akhir": "2025-05-07T10:00:00+07:00",
+    "kpknl": "KPKNL Jambi"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 458 m<sup>2</sup> berikut bangunan di Kab. Ogan Komering Ulu",
+    "nilai_limit": "373944000",
+    "uang_jaminan": "75000000",
+    "waktu_akhir": "2025-05-07T10:00:00+07:00",
     "kpknl": "KPKNL Palembang"
+  },
+  {
+    "nama_lot": "1 bidang tanah dengan total luas 300 m<sup>2</sup> berikut bangunan di Kab. Muara Enim",
+    "nilai_limit": "450000000",
+    "uang_jaminan": "135000000",
+    "waktu_akhir": "2025-05-07T10:00:00+07:00",
+    "kpknl": "KPKNL Lahat"
   }
 ]
